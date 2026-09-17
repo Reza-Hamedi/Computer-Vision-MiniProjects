@@ -10,4 +10,4 @@ This repository contains a series of Computer Vision projects showcasing foundat
 *   **MNIST Digit Recognizer:** A baseline neural network model for recognizing handwritten digits, serving as a fundamental exploration of dense and convolutional layers.
 
 ## 🛠️ Technologies Used
-Python, TensorFlow/Keras, OpenCV, Matplotlib
+Python, TensorFlow/Keras, Matplotlib
